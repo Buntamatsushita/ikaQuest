@@ -1,0 +1,8 @@
+ビルド　Ctrl + shift + B
+インデントの成型　	Shift + Alt + F
+
+
+
+タスク
+
+
